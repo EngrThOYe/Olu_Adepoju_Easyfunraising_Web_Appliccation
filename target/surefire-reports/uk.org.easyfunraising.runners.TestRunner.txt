@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: uk.org.easyfunraising.runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.736 s - in uk.org.easyfunraising.runners.TestRunner
